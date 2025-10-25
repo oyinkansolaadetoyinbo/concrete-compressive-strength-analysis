@@ -1,0 +1,19 @@
+concrete-compressive-strength-analysis/
+│
+├── data/                    # Raw or processed dataset
+│   └── concrete_strength.csv
+│
+├── scripts/                 # All R code files
+│   ├── eda.R
+│   ├── correlation_analysis.R
+│   ├── regression_models.R
+│   └── hypothesis_tests.R
+│
+├── plots/                   # Graphs or plots generated
+│   ├── histogram_strength.png
+│   └── correlation_matrix.png
+│
+├── results/                 # Model outputs or summaries
+│   └── regression_summary.txt
+│
+└── README.md                # Already done
